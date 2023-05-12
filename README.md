@@ -26,7 +26,7 @@
 + <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 ## 🧑‍🤝‍🧑 참가 멤버
-+ Jay
-+ Ryul
-+ Grace
++ 최재광(Jay)
++ 송솔(Ryul)
++ 노슬기(Grace)
 
