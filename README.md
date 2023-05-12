@@ -26,7 +26,7 @@
 + <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 ## 🧑‍🤝‍🧑 참가 멤버
-+ 최재광(Jay)
-+ 송솔(Ryul)
++ 최재광(Jay) [https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt]
++ 송솔(Ryul) [https://github.com/likemilktea/ChatTrio1stProject]
 + 노슬기(Grace)
 
