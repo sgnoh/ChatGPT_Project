@@ -29,7 +29,7 @@
 + Jay
 + Ryul
 + Grace
-|<img src="https://github.com/~~~.png" width="80">|<img src="https://github.com/~~~.png" width="80">|
+
 |:---:|:---:|:---|
 |최재광(Jay)|송솔(Ryul)|노슬기(Grace)|
 
